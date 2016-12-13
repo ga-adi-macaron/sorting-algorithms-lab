@@ -1,0 +1,40 @@
+---
+title: Sorting Algorithms
+type: lab
+duration: "1:30"
+creator: James Davis (NYC)
+---
+
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Bubble and Insertion Sorting Lab
+
+## Introduction
+
+> ***Note:*** _This lab should be completed in pairs or trios._
+
+In this lab, you will be practicing the Bubble Sort and Insert Sort algorithms.
+
+## Exercise
+
+#### Requirements
+
+Below, you will find a handful of number arrays. By hand, sort as many as you can *with your partner(s)*. For the ones you sort, use both the Bubble and Insert methods. Using either the table or the walls, draw and photograph your work; or create a text file and record your work there. Be sure to record your results after after each pass through each array for both methods.
+
+> 8, 6, 7, 5, 3, 0, 9
+
+> 10, 9, 8, 7, 6
+
+> -4, 6, 33, 12, 1, 1, -1
+
+> 2, 3, 2, 3, 2, 3, -2
+
+> 12
+
+*Bonus:*
+
+Sort this one, too!
+
+> I, r, o, n, M, a, n
+
+#### Deliverable
+
+A file or photos detailing all of the results of the practice.
